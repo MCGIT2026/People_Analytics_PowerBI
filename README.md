@@ -1,8 +1,8 @@
 # People Analytics — HR Attrition & Workforce Happiness
-<img width="1291" height="726" alt="overview" src="https://github.com/user-attachments/assets/5695f22f-a89d-4ab1-b0dc-6c3c566b59c8" />
-<img width="1291" height="720" alt="attrition-risks" src="https://github.com/user-attachments/assets/5750e23a-8197-4fec-a884-c72dc1768bf1" />
-<img width="1293" height="719" alt="risk-detail" src="https://github.com/user-attachments/assets/33bacad9-756c-4290-86b0-80d50f95e86a" />
-<img width="1291" height="722" alt="happiness" src="https://github.com/user-attachments/assets/cd910bfb-e742-4ba7-8941-b2dfd2f60187" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/4c16a8e3-c92f-4938-87b0-a5de077f3e1d" />
+<img width="1329" height="741" alt="image" src="https://github.com/user-attachments/assets/28d19133-e4f3-4e02-a223-993d1daf8c67" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/a310451d-157c-4cf5-b661-5f6b2dda03e9" />
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/04b7779d-72b3-4ded-a34b-65b42a4e8f1b" />
 
 ##  **Power BI | People Analytics | HR Data Modelling | DAX | Power Query**
 
