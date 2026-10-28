@@ -2,7 +2,6 @@
 <img width="1291" height="726" alt="overview" src="https://github.com/user-attachments/assets/5695f22f-a89d-4ab1-b0dc-6c3c566b59c8" />
 <img width="1291" height="720" alt="attrition-risks" src="https://github.com/user-attachments/assets/5750e23a-8197-4fec-a884-c72dc1768bf1" />
 <img width="1293" height="719" alt="risk-detail" src="https://github.com/user-attachments/assets/33bacad9-756c-4290-86b0-80d50f95e86a" />
-<img width="1330" height="905" alt="risk-detail-filters" src="https://github.com/user-attachments/assets/a40b3b5b-5850-4e6e-9919-29c3423fb118" />
 <img width="1291" height="722" alt="happiness" src="https://github.com/user-attachments/assets/cd910bfb-e742-4ba7-8941-b2dfd2f60187" />
 
 
