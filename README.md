@@ -5,6 +5,7 @@
 
 This project was developed as part of the CEGID Data Analytics training programme, within the Power BI module.
 
+
 ## Business Objectives
 
 ### 1. Company Overview — Understanding the Organisation
@@ -12,6 +13,7 @@ This project was developed as part of the CEGID Data Analytics training programm
 Provide the newly appointed HR manager with a comprehensive overview of the company and its workforce.
 
 **Key objective:** provide a broad, data-driven understanding of the organisation.
+
 
 ### 2. Employee Attrition — Understanding Employee Exits
 
@@ -21,11 +23,13 @@ Analyse employee departures to identify patterns and characteristics associated 
 - Develop an attrition persona based on observed characteristics.
 - Investigate profiles potentially associated with higher attrition risk.
 
+
 ### 3. Employee Happiness — Survey Analysis
 
 Analyse two employee surveys to explore workforce happiness and evaluate whether changes were observed following an office desk-related initiative.
 
 **Key objective:** investigate changes in employee experience while recognising the limitations of comparisons between two surveys.
+
 
 ## Analytical Approach
 
@@ -36,6 +40,7 @@ The dashboard was designed to support multiple business questions through shared
 - Investigate attrition and survey patterns.
 - Reduce the need for separate reports.
 
+
 ## Tools & Technologies
 
 - Microsoft Power BI
@@ -44,16 +49,19 @@ The dashboard was designed to support multiple business questions through shared
 - Excel and CSV
 - GitHub
 
+
 ## Repository Structure
 
 - `data/` — source datasets and supporting files.
 - `data_preparation/` — data preparation artefacts.
 - `power-bi/` — Power BI report.
 
+
 ## Project Context
 
-This project was developed as part of a group training project. This repository contains an individual portfolio copy of the project artefacts.
+This project was developed as part of a training project. This repository contains an individual portfolio copy of the project artefacts.
+
 
 ## Limitations & Responsible Use
 
-The analysis is educational and based on the available datasets. Observed patterns do not establish causation, and the attrition persona should not be interpreted as a validated predictive model unless supported by appropriate evaluation.
+The analysis is educational and based on the available datasets. Observed patterns do not establish causation, and the attrition persona should not be interpreted as a validated predictive model .
