@@ -1,73 +1,81 @@
+# People Analytics — HR Attrition & Workforce Happiness
 
-# People Analytics — HR Analytics & Power BI Dashboard
+**Power BI | People Analytics | HR Data Modelling | DAX | Power Query**
 
-## Project Overview
+An interactive HR analytics project developed as part of the CEGID Data Analytics training programme, within the Power BI module.
 
-This project was developed as part of the CEGID Data Analytics training programme, within the Power BI module.
-
+The project simulates a business scenario in which a newly appointed HR manager needs to understand the organisation, investigate employee attrition and assess workforce happiness. 
+The solution brings together multiple data sources, a structured data model and interactive dashboards to support data-driven HR exploration.
 
 ## Business Objectives
+The project was built around three main business objectives.
 
 ### 1. Company Overview — Understanding the Organisation
+Provide a newly appointed HR manager with a comprehensive overview of the organisation and its workforce.
+The dashboard enables exploration of employee distribution and workforce characteristics across relevant organisational and demographic dimensions.
 
-Provide the newly appointed HR manager with a comprehensive overview of the company and its workforce.
+### 2. Employee Attrition — Understanding Exits and Exploring Risk Profiles
+Investigate employee departures to identify patterns and characteristics associated with attrition.
+The analysis goes beyond counting exits by exploring employee segments and characteristics that may be associated with a higher likelihood of leaving.
+A key component is the development of an **attrition persona**: a representative profile derived from characteristics observed among employees who left the organisation. The persona helps HR explore recurring patterns and identify segments that may deserve further investigation.
+The dashboard also supports the exploration of risk indicators and employee profiles, providing a foundation for more proactive retention analysis.
 
-**Key objective:** provide a broad, data-driven understanding of the organisation.
-
-
-### 2. Employee Attrition — Understanding Employee Exits
-
-Analyse employee departures to identify patterns and characteristics associated with attrition.
-
-- Explore recurring patterns among employees who left.
-- Develop an attrition persona based on observed characteristics.
-- Investigate profiles potentially associated with higher attrition risk.
-
-
-### 3. Employee Happiness — Survey Analysis
-
-Analyse two employee surveys to explore workforce happiness and evaluate whether changes were observed following an office desk-related initiative.
-
-**Key objective:** investigate changes in employee experience while recognising the limitations of comparisons between two surveys.
-
-###**Dashboard pages**
-Overview — active employees, gender distribution, departments, education and salary.
-Organizational Happiness — happiness, job involvement, job satisfaction, environment satisfaction and work-life balance.
-Attrition & Risks — attrition rate, age and tenure bands, salary, overtime and risk profiles.
-Risk Score — detailed view of employees classified by risk level.
+### 3. Workforce Happiness — Survey Analysis and Office Intervention
+Explore employee happiness and satisfaction using two employee surveys conducted at different points in time.
+The analysis also investigates whether changes in employee experience were observed following the introduction of an office desk-related initiative before the second survey.
+Relevant indicators include happiness, job satisfaction, environment satisfaction, job involvement and work-life balance, subject to the fields available in the survey data.
 
 
-## Analytical Approach
+## Analytical Design — One Dashboard, Multiple Questions
+A central design principle was to maximise the analytical value of the available data while allowing users to investigate multiple business questions in the same reporting environment.
+Rather than requiring separate reports for every question, the dashboard uses interactive filters, slicers and cross-filtering to explore several dimensions together.
+The objective is to make the dashboard flexible and useful for exploratory HR analysis, while keeping the reporting experience coherent and accessible.
 
-The dashboard was designed to support multiple business questions through shared filters, parameters and cross-filtering capabilities.
+## Dashboard Pages
+The report is organised around the following analytical areas, depending on the pages available in the final Power BI file:
 
-- Explore several dimensions in one reporting environment.
-- Compare workforce segments.
-- Investigate attrition and survey patterns.
-- Reduce the need for separate reports.
+- **Company Overview** — workforce composition and key HR indicators.
+- **Organisational Happiness** — survey-based happiness, satisfaction and employee experience.
+- **Attrition & Risk Profiles** — employee departures, attrition patterns and representative profiles.
+- **Risk Analysis** — detailed exploration of the risk indicators and segments implemented in the report.
 
+## Data & Methodology
+The project follows a structured analytics workflow:
+
+1. **Business understanding** — translate the three business objectives into analytical questions.
+2. **Data understanding** — examine source datasets, fields, structure and limitations.
+3. **Data preparation** — clean, transform and organise data using Power Query.
+4. **Data modelling** — structure the data using fact and dimension tables and define relationships.
+5. **Measures and KPIs** — implement analytical calculations using DAX.
+6. **Visualisation** — develop interactive reports, filters and cross-filtering behaviour.
+7. **Interpretation** — use the resulting views to explore patterns and support HR-oriented discussions.
 
 ## Tools & Technologies
+- **Microsoft Power BI** — interactive dashboards and reporting.
+- **Power Query (M)** — data ingestion and transformation.
+- **DAX** — measures, KPIs and analytical calculations.
+- **Excel and CSV** — source datasets and supporting files.
+- **GitHub** — version control, documentation and portfolio presentation.
 
-- Microsoft Power BI
-- Power Query (M)
-- DAX
-- Excel and CSV
-- GitHub
+## Repository Contents
+- `data/` — source datasets and supporting data files.
+- `data_preparation/` — data preparation and transformation artefacts.
+- `power-bi/` — Power BI report (`.pbix`).
+- `README.md` — project overview, objectives and methodology.
 
+## How to Use
+1. Download or clone this repository.
+2. Open the Power BI report located in `power-bi/` using Power BI Desktop.
+3. If prompted, verify the data source configuration and ensure the required files are accessible.
+4. Use the report navigation, slicers and cross-filtering to explore the available analysis.
 
-## Repository Structure
+The report may rely on source URLs or paths configured in Power Query. If these sources change, the queries may need to be updated.
 
-- `data/` — source datasets and supporting files.
-- `data_preparation/` — data preparation artefacts.
-- `power-bi/` — Power BI report.
+## Project Context & Contribution
+This project was developed as part of a training project. This repository is an individual portfolio copy intended to document the project artefacts and demonstrate the analytical workflow.
+The portfolio presentation focuses on the business questions, data preparation, data modelling and reporting approach applied in the project.
 
-
-## Project Context
-
-This project was developed as part of a training project. This repository contains an individual portfolio copy of the project artefacts.
-
-
-## Limitations & Responsible Use
-
-The analysis is educational and based on the available datasets. Observed patterns do not establish causation, and the attrition persona should not be interpreted as a validated predictive model .
+## Privacy, Limitations & Responsible Use
+This is an educational project based on the datasets available for the exercise. Its conclusions are limited by the quality, scope and structure of those datasets.
+Attrition patterns and risk-oriented profiles should be used to guide further analysis, not to label individual employees or make employment decisions. Survey comparisons should be interpreted carefully, particularly when assessing the possible impact of an intervention without a controlled evaluation design.
+The report is intended for learning and analytical demonstration, not as a production HR decision system.
