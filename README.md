@@ -30,6 +30,12 @@ Analyse two employee surveys to explore workforce happiness and evaluate whether
 
 **Key objective:** investigate changes in employee experience while recognising the limitations of comparisons between two surveys.
 
+###**Dashboard pages**
+Overview — active employees, gender distribution, departments, education and salary.
+Organizational Happiness — happiness, job involvement, job satisfaction, environment satisfaction and work-life balance.
+Attrition & Risks — attrition rate, age and tenure bands, salary, overtime and risk profiles.
+Risk Score — detailed view of employees classified by risk level.
+
 
 ## Analytical Approach
 
