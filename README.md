@@ -80,6 +80,8 @@ This is an educational project based on the datasets available for the exercise.
 Attrition patterns and risk-oriented profiles should be used to guide further analysis, not to label individual employees or make employment decisions. Survey comparisons should be interpreted carefully, particularly when assessing the possible impact of an intervention without a controlled evaluation design.
 The report is intended for learning and analytical demonstration, not as a production HR decision system.
 
+
+
 Power BI & Data Analytics Portfolio Project
 
 <img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/4c16a8e3-c92f-4938-87b0-a5de077f3e1d" />
