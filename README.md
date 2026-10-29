@@ -1,8 +1,4 @@
 # People Analytics — HR Attrition & Workforce Happiness
-<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/4c16a8e3-c92f-4938-87b0-a5de077f3e1d" />
-<img width="1329" height="741" alt="image" src="https://github.com/user-attachments/assets/28d19133-e4f3-4e02-a223-993d1daf8c67" />
-<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/a310451d-157c-4cf5-b661-5f6b2dda03e9" />
-<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/04b7779d-72b3-4ded-a34b-65b42a4e8f1b" />
 
 ##  **Power BI | People Analytics | HR Data Modelling | DAX | Power Query**
 
@@ -84,4 +80,8 @@ This is an educational project based on the datasets available for the exercise.
 Attrition patterns and risk-oriented profiles should be used to guide further analysis, not to label individual employees or make employment decisions. Survey comparisons should be interpreted carefully, particularly when assessing the possible impact of an intervention without a controlled evaluation design.
 The report is intended for learning and analytical demonstration, not as a production HR decision system.
 
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/4c16a8e3-c92f-4938-87b0-a5de077f3e1d" />
+<img width="1329" height="741" alt="image" src="https://github.com/user-attachments/assets/28d19133-e4f3-4e02-a223-993d1daf8c67" />
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/a310451d-157c-4cf5-b661-5f6b2dda03e9" />
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/04b7779d-72b3-4ded-a34b-65b42a4e8f1b" />
 
